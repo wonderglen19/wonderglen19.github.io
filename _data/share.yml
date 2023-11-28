@@ -4,21 +4,25 @@
 platforms:
   - type: Twitter
     icon: "fa-brands fa-square-x-twitter"
-    link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
+    link: "https://twitter.com/wonder_glen"
 
   - type: Facebook
     icon: "fab fa-facebook-square"
-    link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
+    link: "https://www.facebook.com/glendys.gil"
 
-  - type: Telegram
-    icon: "fab fa-telegram"
-    link: "https://t.me/share/url?url=URL&text=TITLE"
+  - type: Instagram
+    icon: "fab fa-instagram-square"
+    link: "https://www.instagram.com/wonder.glen/"
+
+  #- type: Telegram
+  # icon: "fab fa-telegram"
+  # link: "https://t.me/share/url?url=URL&text=TITLE"
 
   # Uncomment below if you need to.
   #
-  # - type: Linkedin
-  #   icon: "fab fa-linkedin"
-  #   link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
+  - type: Linkedin
+    icon: "fab fa-linkedin"
+    link: "https://www.linkedin.com/in/glendys-gil-dev-on-the-3dg3/"
   #
   # - type: Weibo
   #   icon: "fab fa-weibo"
