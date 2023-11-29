@@ -3,9 +3,10 @@ layout: post
 title: "Hello, World! 🚀 Meet Glendys, Full-Stack Developer"
 description: "Exploring the realms of pictures, code, words, rhythm, and flavors."
 categories: [Introduction]
+comments: true
 ---
 
-![Profile Image](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/310516931_10158374693955834_1291514860853226351_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ShxInnh5b80AX9fTRmi&_nc_ht=scontent-ord5-2.xx&oh=00_AfDa2_Y7u7E8J9SrXOjFY9yDRm60r_GDkRhP3PUQiKC1nA&oe=6565640A)
+![Profile Image](https://scontent-ord5-2.xx.fbcdn.net/v/t1.6435-9/29025335_10154948282330834_4912108763055390720_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=7a1959&_nc_ohc=DpgCazFJlrQAX_pikVJ&_nc_ht=scontent-ord5-2.xx&oh=00_AfAYwAuxH383Wf01IxtfWh0jxZnA37tNYzx9LLaUkQssNg&oe=658E99EA)
 
 Hey there! 👋 I'm Glendys you can call me Glen, a passionate full-stack software developer with a love for writing, dancing, and cooking. Welcome to my digital space where I embark on exciting journeys in the realms of code, words, rhythm, and flavors.
 
